@@ -82,6 +82,17 @@
 
 `Electron` · `yt-dlp` · `FFmpeg` · `Windows` · `macOS` · `Linux`
 
+<table>
+<tr>
+<td><a href="https://github.com/Chamanrajragu/purffle-grab"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-grab/main/docs/screenshots/01-download-dark.png" width="400" alt="Purffle Grab download interface — YouTube and Spotify downloader" /></a><br /><sub><b>Download</b> — Paste a link, pick format, go</sub></td>
+<td><a href="https://github.com/Chamanrajragu/purffle-grab"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-grab/main/docs/screenshots/02-playlist-dark.png" width="400" alt="Purffle Grab playlist downloader — batch download entire playlists" /></a><br /><sub><b>Playlists</b> — Batch download with track selection</sub></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Chamanrajragu/purffle-grab"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-grab/main/docs/screenshots/04-player-dark.png" width="400" alt="Purffle Grab built-in audio player with visualizer and equalizer" /></a><br /><sub><b>Player</b> — Built-in player with equalizer</sub></td>
+<td><a href="https://github.com/Chamanrajragu/purffle-grab"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-grab/main/docs/screenshots/05-stats-dark.png" width="400" alt="Purffle Grab statistics dashboard — download metrics and history" /></a><br /><sub><b>Stats</b> — Download metrics & history</sub></td>
+</tr>
+</table>
+
 ---
 
 ## 📈 Purffle Trader — Crypto Paper-Trading Bot
@@ -93,13 +104,19 @@
 
 `Python` · `Flask` · `SQLite` · `Binance API`
 
+<table>
+<tr>
+<td><a href="https://github.com/Chamanrajragu/purffle-trader"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-trader/main/screenshots/dashboard.png" width="400" alt="Purffle Trader real-time dashboard — portfolio, positions, and P&L tracking" /></a><br /><sub><b>Dashboard</b> — Real-time portfolio & P&L</sub></td>
+<td><a href="https://github.com/Chamanrajragu/purffle-trader"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-trader/main/screenshots/backtest-results.png" width="400" alt="Purffle Trader backtest results — 2-year strategy comparison across 10 strategies" /></a><br /><sub><b>Backtest</b> — 2-year strategy comparison</sub></td>
+</tr>
+</table>
+
 ---
 
 ## 💱 Purffle Trade — Live Crypto Trading Platform
 
 **Real-time cryptocurrency trading with professional-grade tools.** Multi-exchange support, advanced charting, portfolio tracking, and automated order execution.
 
-[![Repo](https://img.shields.io/badge/GitHub-purffle--trade-e06ba8?style=flat-square&logo=github)](https://github.com/Chamanrajragu/purffle-trade)
 [![Website](https://img.shields.io/badge/Website-purfletrade.com-e06ba8?style=flat-square)](http://purfletrade.com/)
 
 `Python` · `Multi-Exchange` · `Real-Time Charts`
@@ -114,6 +131,13 @@
 
 `Python` · `Hyperliquid` · `On-Chain Data` · `Backtesting`
 
+<table>
+<tr>
+<td><a href="https://github.com/Chamanrajragu/purffle-copybot"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-copybot/main/screenshots/dashboard.png" width="400" alt="Purffle CopyBot dashboard — elite traders, consensus signals, and mirror positions" /></a><br /><sub><b>Dashboard</b> — Elite traders & consensus signals</sub></td>
+<td><a href="https://github.com/Chamanrajragu/purffle-copybot"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-copybot/main/screenshots/backtest-results.png" width="400" alt="Purffle CopyBot backtest — 6 position sizing strategies compared" /></a><br /><sub><b>Backtest</b> — 6 strategies compared</sub></td>
+</tr>
+</table>
+
 ---
 
 ## 🎬 Purffle Vision & Purffle Shorts — AI Video Generation
@@ -124,6 +148,12 @@
 [![Shorts](https://img.shields.io/badge/GitHub-purffle--shorts-e0a458?style=flat-square&logo=github)](https://github.com/Chamanrajragu/purffle-shorts)
 
 `Python` · `OpenAI` · `Coqui TTS` · `MoviePy` · `Flask`
+
+<table>
+<tr>
+<td><a href="https://github.com/Chamanrajragu/purffle-vision"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-vision/main/screenshots/dashboard.png" width="400" alt="Purffle Vision dashboard — AI video generation pipeline with glass morphism UI" /></a><br /><sub><b>Vision Dashboard</b> — 5-step AI video pipeline</sub></td>
+</tr>
+</table>
 
 ---
 
