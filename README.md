@@ -71,6 +71,7 @@
 <table>
 <tr>
 <td><a href="https://purffletrade.com"><img src="./assets/purffletrade-hero.png" width="400" alt="Purffle Trade — free crypto copy-trading platform with 177 live markets and on-chain verification" /></a><br /><sub><b>Landing</b> — Copy winners in one tap</sub></td>
+<td><a href="https://purffletrade.com/discover"><img src="./assets/purffletrade-dashboard.png" width="400" alt="Purffle Trade discover page — live traders, market movers, fear & greed index, and copy-trading signals" /></a><br /><sub><b>Discover</b> — Live traders & market movers</sub></td>
 </tr>
 </table>
 
@@ -139,6 +140,7 @@
 <table>
 <tr>
 <td><a href="https://purffle.tools"><img src="./assets/purffle-tools-hero.png" width="400" alt="Purffle Tools — 300+ free online utilities for developers, designers, and students" /></a><br /><sub><b>Homepage</b> — 300+ tools, zero friction</sub></td>
+<td><a href="https://purffle.tools"><img src="./assets/purffle-tools-grid.png" width="400" alt="Purffle Tools categories — Developer, Text, Encoding, SEO, CSS, Color, Finance, Health tools" /></a><br /><sub><b>Categories</b> — 19 categories, instant access</sub></td>
 </tr>
 </table>
 
@@ -155,6 +157,7 @@
 <table>
 <tr>
 <td><a href="https://purfflestudios.com"><img src="./assets/purffle-studios-hero.png" width="400" alt="Purffle Studios — indie game studio with Royal Hunters battle royale, 39K+ downloads across 75+ countries" /></a><br /><sub><b>Homepage</b> — Solo built. Globally played.</sub></td>
+<td><a href="https://purfflestudios.com"><img src="./assets/purffle-studios-studio.png" width="400" alt="Purffle Studios games — Royal Hunters battle royale and Purffle City Racing open-world driving" /></a><br /><sub><b>Games</b> — Royal Hunters & City Racing</sub></td>
 </tr>
 </table>
 
