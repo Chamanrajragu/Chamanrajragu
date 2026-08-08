@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/src/renderer/icon.png" width="88" alt="Purffle" />
+<a href="https://purffle.com"><img src="./assets/banner.png" alt="Purffle — Chaman Raj: free, open-source desktop apps and AI automation tools" width="100%" /></a>
 
 # Chaman Raj
 
