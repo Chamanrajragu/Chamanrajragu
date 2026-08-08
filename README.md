@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://purffle.com"><img src="./assets/banner.png" alt="Purffle — free, open-source desktop apps and AI automation tools" width="100%" /></a>
+<a href="https://purffle.com"><img src="./assets/banner.png" alt="Purffle — free, open-source desktop apps, AI automation tools, trading bots, and indie games" width="100%" /></a>
 
 <br />
 
@@ -13,7 +13,7 @@
 
 ---
 
-> **Everything is free, open source, and MIT licensed.** No paid tiers, no accounts, no telemetry. Desktop apps and AI automation tools — built with Electron and Python, always with a real GUI.
+> **Everything is free, open source, and MIT licensed.** No paid tiers, no accounts, no telemetry. Desktop apps, AI automation, trading bots, and indie games — built with Electron, Python, and Unity.
 
 ---
 
@@ -28,46 +28,15 @@
 
 `Electron` · `Claude Agent SDK` · `Windows` · `macOS` · `Linux` · no API key needed
 
-### Key Features
-
 - **Auto-switch** — seamlessly rotates to a free account the instant one hits its limit
 - **24/7 Auto-loop** — runs prompts across accounts indefinitely, waits for resets, repeats
 - **Parallel chats** — multiple conversations per project, each in its own session
 - **Context inspector** — live view of token usage and context window health
-- **Command palette** — quick access to every action with keyboard shortcuts
-- **Live cooldown timers** — see exactly when each account becomes available
-- **Dark & light themes** — full UI theming with system preference detection
-
-### Screenshots
 
 <table>
 <tr>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-main.png" width="400" alt="Claude Multi main interface — multiple Claude accounts with live chat" /></a><br /><sub><b>Main Interface</b> — Multi-account chat with live status</sub></td>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-dashboard.png" width="400" alt="Claude Multi dashboard — account overview with cooldown timers" /></a><br /><sub><b>Dashboard</b> — Account overview & cooldown timers</sub></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-autoloop.png" width="400" alt="Claude Multi auto-loop — 24/7 automated prompt rotation across accounts" /></a><br /><sub><b>Auto-Loop</b> — 24/7 automated prompt rotation</sub></td>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-context.png" width="400" alt="Claude Multi context inspector — live token usage and context window health" /></a><br /><sub><b>Context Inspector</b> — Live token & context health</sub></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-palette.png" width="400" alt="Claude Multi command palette — quick keyboard-driven access to all actions" /></a><br /><sub><b>Command Palette</b> — Keyboard-driven quick access</sub></td>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-tokens.png" width="400" alt="Claude Multi token settings — configure token limits and model preferences" /></a><br /><sub><b>Token Settings</b> — Token limits & model config</sub></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-accounts.png" width="400" alt="Claude Multi accounts manager — add and manage multiple Claude accounts" /></a><br /><sub><b>Account Manager</b> — Add & manage accounts</sub></td>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-usage.png" width="400" alt="Claude Multi usage tracking — monitor usage across all accounts" /></a><br /><sub><b>Usage Tracking</b> — Monitor all accounts</sub></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-limit.png" width="400" alt="Claude Multi limit detection — automatic detection when account hits usage cap" /></a><br /><sub><b>Limit Detection</b> — Auto-detects usage caps</sub></td>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-settings.png" width="400" alt="Claude Multi settings — customize behavior, themes, and preferences" /></a><br /><sub><b>Settings</b> — Customize everything</sub></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-models.png" width="400" alt="Claude Multi model selector — choose between Claude models" /></a><br /><sub><b>Model Selector</b> — Pick your Claude model</sub></td>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-effort.png" width="400" alt="Claude Multi effort control — adjust reasoning effort level" /></a><br /><sub><b>Effort Control</b> — Adjust reasoning effort</sub></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-permissions.png" width="400" alt="Claude Multi permissions — granular control over file and tool access" /></a><br /><sub><b>Permissions</b> — Granular tool & file access</sub></td>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-light.png" width="400" alt="Claude Multi light theme — clean light mode interface" /></a><br /><sub><b>Light Theme</b> — Clean light mode</sub></td>
+<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-main.png" width="400" alt="Claude Multi main interface — run Claude Code with multiple accounts, auto-switch on usage limit" /></a><br /><sub><b>Main Interface</b> — Multi-account chat with live status</sub></td>
+<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-dashboard.png" width="400" alt="Claude Multi dashboard — account overview with live cooldown timers" /></a><br /><sub><b>Dashboard</b> — Account overview & cooldown timers</sub></td>
 </tr>
 </table>
 
@@ -84,12 +53,24 @@
 
 <table>
 <tr>
-<td><a href="https://github.com/Chamanrajragu/purffle-grab"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-grab/main/docs/screenshots/01-download-dark.png" width="400" alt="Purffle Grab download interface — YouTube and Spotify downloader" /></a><br /><sub><b>Download</b> — Paste a link, pick format, go</sub></td>
-<td><a href="https://github.com/Chamanrajragu/purffle-grab"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-grab/main/docs/screenshots/02-playlist-dark.png" width="400" alt="Purffle Grab playlist downloader — batch download entire playlists" /></a><br /><sub><b>Playlists</b> — Batch download with track selection</sub></td>
-</tr>
-<tr>
+<td><a href="https://github.com/Chamanrajragu/purffle-grab"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-grab/main/docs/screenshots/01-download-dark.png" width="400" alt="Purffle Grab download interface — free YouTube and Spotify downloader for Windows, Mac, Linux" /></a><br /><sub><b>Download</b> — Paste a link, pick format, go</sub></td>
 <td><a href="https://github.com/Chamanrajragu/purffle-grab"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-grab/main/docs/screenshots/04-player-dark.png" width="400" alt="Purffle Grab built-in audio player with visualizer and equalizer" /></a><br /><sub><b>Player</b> — Built-in player with equalizer</sub></td>
-<td><a href="https://github.com/Chamanrajragu/purffle-grab"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-grab/main/docs/screenshots/05-stats-dark.png" width="400" alt="Purffle Grab statistics dashboard — download metrics and history" /></a><br /><sub><b>Stats</b> — Download metrics & history</sub></td>
+</tr>
+</table>
+
+---
+
+## 💱 Purffle Trade — Social Copy-Trading for Crypto
+
+**Copy the best crypto traders. Or become one and get paid.** 177 live markets, 100% free, non-custodial. Top traders post their moves and earn a cut every time someone copies and wins. Verified on-chain — real results, not influencer hype.
+
+[![Website](https://img.shields.io/badge/Website-purffletrade.com-1abc9c?style=flat-square)](https://purffletrade.com)
+
+`177 Markets` · `Non-Custodial` · `On-Chain Verified` · `iOS & Android Coming Soon`
+
+<table>
+<tr>
+<td><a href="https://purffletrade.com"><img src="./assets/purffletrade-hero.png" width="400" alt="Purffle Trade — free crypto copy-trading platform with 177 live markets and on-chain verification" /></a><br /><sub><b>Landing</b> — Copy winners in one tap</sub></td>
 </tr>
 </table>
 
@@ -106,20 +87,10 @@
 
 <table>
 <tr>
-<td><a href="https://github.com/Chamanrajragu/purffle-trader"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-trader/main/screenshots/dashboard.png" width="400" alt="Purffle Trader real-time dashboard — portfolio, positions, and P&L tracking" /></a><br /><sub><b>Dashboard</b> — Real-time portfolio & P&L</sub></td>
-<td><a href="https://github.com/Chamanrajragu/purffle-trader"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-trader/main/screenshots/backtest-results.png" width="400" alt="Purffle Trader backtest results — 2-year strategy comparison across 10 strategies" /></a><br /><sub><b>Backtest</b> — 2-year strategy comparison</sub></td>
+<td><a href="https://github.com/Chamanrajragu/purffle-trader"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-trader/main/screenshots/dashboard.png" width="400" alt="Purffle Trader real-time dashboard — crypto paper-trading bot scanning 100 Binance pairs" /></a><br /><sub><b>Dashboard</b> — Real-time portfolio & P&L</sub></td>
+<td><a href="https://github.com/Chamanrajragu/purffle-trader"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-trader/main/screenshots/backtest-results.png" width="400" alt="Purffle Trader backtest results — 2-year strategy comparison" /></a><br /><sub><b>Backtest</b> — 2-year strategy comparison</sub></td>
 </tr>
 </table>
-
----
-
-## 💱 Purffle Trade — Live Crypto Trading Platform
-
-**Real-time cryptocurrency trading with professional-grade tools.** Multi-exchange support, advanced charting, portfolio tracking, and automated order execution.
-
-[![Website](https://img.shields.io/badge/Website-purfletrade.com-e06ba8?style=flat-square)](http://purfletrade.com/)
-
-`Python` · `Multi-Exchange` · `Real-Time Charts`
 
 ---
 
@@ -133,7 +104,7 @@
 
 <table>
 <tr>
-<td><a href="https://github.com/Chamanrajragu/purffle-copybot"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-copybot/main/screenshots/dashboard.png" width="400" alt="Purffle CopyBot dashboard — elite traders, consensus signals, and mirror positions" /></a><br /><sub><b>Dashboard</b> — Elite traders & consensus signals</sub></td>
+<td><a href="https://github.com/Chamanrajragu/purffle-copybot"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-copybot/main/screenshots/dashboard.png" width="400" alt="Purffle CopyBot dashboard — mirror top Hyperliquid traders with consensus signals" /></a><br /><sub><b>Dashboard</b> — Elite traders & consensus signals</sub></td>
 <td><a href="https://github.com/Chamanrajragu/purffle-copybot"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-copybot/main/screenshots/backtest-results.png" width="400" alt="Purffle CopyBot backtest — 6 position sizing strategies compared" /></a><br /><sub><b>Backtest</b> — 6 strategies compared</sub></td>
 </tr>
 </table>
@@ -151,7 +122,39 @@
 
 <table>
 <tr>
-<td><a href="https://github.com/Chamanrajragu/purffle-vision"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-vision/main/screenshots/dashboard.png" width="400" alt="Purffle Vision dashboard — AI video generation pipeline with glass morphism UI" /></a><br /><sub><b>Vision Dashboard</b> — 5-step AI video pipeline</sub></td>
+<td><a href="https://github.com/Chamanrajragu/purffle-vision"><img src="https://raw.githubusercontent.com/Chamanrajragu/purffle-vision/main/screenshots/dashboard.png" width="400" alt="Purffle Vision — AI video generation pipeline, turn any topic into a finished YouTube video" /></a><br /><sub><b>Vision Dashboard</b> — 5-step AI video pipeline</sub></td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Purffle Tools — 300+ Free Online Utilities
+
+**Free online toolbox for developers, designers, students, and professionals.** JSON, PDF, images, calculators, generators, validators, converters — over 300 utilities in one fast interface. No signup, no ads, no tracking.
+
+[![Website](https://img.shields.io/badge/Website-purffle.tools-2dd4bf?style=flat-square)](https://purffle.tools)
+
+`300+ Tools` · `19 Categories` · `No Signup` · `Zero Tracking`
+
+<table>
+<tr>
+<td><a href="https://purffle.tools"><img src="./assets/purffle-tools-hero.png" width="400" alt="Purffle Tools — 300+ free online utilities for developers, designers, and students" /></a><br /><sub><b>Homepage</b> — 300+ tools, zero friction</sub></td>
+</tr>
+</table>
+
+---
+
+## 🎮 Purffle Studios — Indie Game Studio
+
+**Solo indie game studio from Chennai, India.** Three handcrafted titles across battle royale, open-world racing, and psychological horror. 39K+ downloads, 75+ countries, all free. Built in Unity.
+
+[![Website](https://img.shields.io/badge/Website-purfflestudios.com-ff69b4?style=flat-square)](https://purfflestudios.com)
+
+`Unity` · `3 Games` · `39K+ Downloads` · `75+ Countries`
+
+<table>
+<tr>
+<td><a href="https://purfflestudios.com"><img src="./assets/purffle-studios-hero.png" width="400" alt="Purffle Studios — indie game studio with Royal Hunters battle royale, 39K+ downloads across 75+ countries" /></a><br /><sub><b>Homepage</b> — Solo built. Globally played.</sub></td>
 </tr>
 </table>
 
@@ -163,6 +166,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
@@ -175,7 +179,7 @@
 
 **If one of these saved you time, a ⭐ helps other people find it.**
 
-[purffle.com](https://purffle.com) · [Purffle Studios](https://purfflestudios.com) · [Purffle Tools](https://purffle.tools) · [Purffle Trade](http://purfletrade.com/)
+[purffle.com](https://purffle.com) · [Purffle Trade](https://purffletrade.com) · [Purffle Tools](https://purffle.tools) · [Purffle Studios](https://purfflestudios.com)
 
 <sub>Not affiliated with Anthropic, OpenAI, Google, Binance, or Spotify. All product names are trademarks of their respective owners.</sub>
 
