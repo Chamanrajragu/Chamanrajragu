@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/purffle.com-d97757?style=for-the-badge&logo=googlechrome&logoColor=white)](https://purffle.com)
 [![Projects](https://img.shields.io/badge/6_Open_Source_Projects-4ec98a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chamanrajragu?tab=repositories)
-[![License](https://img.shields.io/badge/MIT_Licensed-4d90d6?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/MIT_Licensed-5_of_6_repos-4d90d6?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/github/downloads/Chamanrajragu/claude-multi/total?style=for-the-badge&color=e0a458&label=Downloads)](https://github.com/Chamanrajragu/claude-multi/releases)
 
 </div>
@@ -30,8 +30,9 @@ below is live, free to use, and open to inspection before you decide whether I a
 **[AI video](#purffle-vision)** · **[Purffle Tools](#purffle-tools)** ·
 **[Purffle Studios](#purffle-studios)** · **[Hire me](#hire)**
 
-> **Everything here is free.** No paid tiers, no accounts, no telemetry. Every GitHub project is MIT
-> licensed; Purffle Chartwright is free but closed-source for now.
+> **Everything here is free.** No paid tiers, no accounts, no telemetry. Five of the six
+> repositories are MIT licensed; PurffleGrab v10 and later ship under their own binary licence
+> (everything up to 9.0.0 stays MIT), and Purffle Chartwright is free but closed-source for now.
 
 ---
 
