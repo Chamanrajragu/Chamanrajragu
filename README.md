@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://purffle.com"><img src="./assets/banner.png" alt="Purffle — free open-source desktop apps, AI automation tools, trading bots and indie games by Chaman Raj R" width="100%" /></a>
+<a href="https://purffle.com"><img src="./assets/banner.png" alt="Purffle — desktop apps, AI automation tools, trading bots and indie games by Chaman Raj R" width="100%" /></a>
 
 <br />
 
 [![Website](https://img.shields.io/badge/purffle.com-d97757?style=for-the-badge&logo=googlechrome&logoColor=white)](https://purffle.com)
-[![Projects](https://img.shields.io/badge/6_Open_Source_Projects-4ec98a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chamanrajragu?tab=repositories)
-[![License](https://img.shields.io/badge/MIT_Licensed-5_of_6_repos-4d90d6?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Downloads](https://img.shields.io/github/downloads/Chamanrajragu/claude-multi/total?style=for-the-badge&color=e0a458&label=Downloads)](https://github.com/Chamanrajragu/claude-multi/releases)
+[![Projects](https://img.shields.io/badge/5_Open_Source_Projects-4ec98a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chamanrajragu?tab=repositories)
+[![License](https://img.shields.io/badge/MIT_Licensed-4_of_5_repos-4d90d6?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Claude Multi](https://img.shields.io/badge/Claude_Multi-from_$5%2Fmonth-e0a458?style=for-the-badge)](https://purffle.com/claude-multi/pricing/)
 
 </div>
 
@@ -19,9 +19,9 @@ I am a solo developer in **Chennai, India**, and I build and ship software on my
 automation and web scraping**, **custom AI chatbots** that answer from your documents instead of
 inventing answers, **Electron desktop apps** for Windows, macOS and Linux, **Flask** dashboards and
 trading bots, and **Unity** games. All of it runs under one brand — **Purffle** — and every project
-below is live, free to use, and open to inspection before you decide whether I am any good.
+below is live and open to inspection before you decide whether I am any good.
 
-**96,000+ downloads** across the network · **6 open-source repositories** · **180+ free web tools**
+**96,000+ downloads** across the network · **5 open-source repositories** · **180+ free web tools**
 · **3 published games in 75+ countries** · everything designed, coded and shipped by one person.
 
 **[Purffle Chartwright](#chartwright)** · **[Purffle AI](#purffleai)** ·
@@ -30,9 +30,10 @@ below is live, free to use, and open to inspection before you decide whether I a
 **[AI video](#purffle-vision)** · **[Purffle Tools](#purffle-tools)** ·
 **[Purffle Studios](#purffle-studios)** · **[Hire me](#hire)**
 
-> **Everything here is free.** No paid tiers, no accounts, no telemetry. Five of the six
-> repositories are MIT licensed; PurffleGrab v10 and later ship under their own binary licence
-> (everything up to 9.0.0 stays MIT), and Purffle Chartwright is free but closed-source for now.
+> **Almost everything here is free**, with no accounts and no telemetry. The one paid app is
+> **[Claude Multi](https://purffle.com/claude-multi/pricing/)**, with plans from $5/month. Four of the five
+> open-source repositories are MIT licensed; PurffleGrab v10 and later ship under their own binary
+> licence (everything up to 9.0.0 stays MIT), and Purffle Chartwright is free but closed-source for now.
 
 ---
 
@@ -136,24 +137,23 @@ build, pointed at your content, with the source code handed over at the end.
 
 ## 🔄 Claude Multi — Run Claude Code with Multiple Accounts
 
-**Never hit the Claude usage limit again.** The moment one account reaches its 5-hour cap, Claude Multi carries the full conversation to a free account and re-issues the interrupted instruction — your task keeps running instead of dying halfway.
+**Never hit the Claude usage limit again.** The moment one account reaches its 5-hour cap, Claude Multi carries the full conversation to the next account with usage left and re-issues the interrupted instruction — your task keeps running instead of dying halfway.
 
 [![Website](https://img.shields.io/badge/Website-purffle.com%2Fclaude--multi-d97757?style=flat-square)](https://purffle.com/claude-multi/)
-[![Latest Release](https://img.shields.io/github/v/release/Chamanrajragu/claude-multi?style=flat-square&color=4ec98a)](https://github.com/Chamanrajragu/claude-multi/releases)
-[![Downloads](https://img.shields.io/github/downloads/Chamanrajragu/claude-multi/total?style=flat-square&color=e0a458)](https://github.com/Chamanrajragu/claude-multi/releases)
-[![Stars](https://img.shields.io/github/stars/Chamanrajragu/claude-multi?style=flat-square&color=4d90d6)](https://github.com/Chamanrajragu/claude-multi)
+[![Plans](https://img.shields.io/badge/Plans-from_$5%2Fmonth-4ec98a?style=flat-square)](https://purffle.com/claude-multi/pricing/)
+[![Download](https://img.shields.io/badge/Download-purffle.com-e0a458?style=flat-square)](https://purffle.com/claude-multi/download/)
 
 `Electron` · `Claude Agent SDK` · `Windows` · `macOS` · `Linux` · no API key needed
 
-- **Auto-switch** — seamlessly rotates to a free account the instant one hits its limit
+- **Auto-switch** — seamlessly rotates to the next account with usage left the instant one hits its limit
 - **24/7 Auto-loop** — runs prompts across accounts indefinitely, waits for resets, repeats
 - **Parallel chats** — multiple conversations per project, each in its own session
 - **Context inspector** — live view of token usage and context window health
 
 <table>
 <tr>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-main.png" width="400" alt="Claude Multi main interface — run Claude Code with multiple accounts and auto-switch on usage limit" /></a><br /><sub><b>Main Interface</b> — Multi-account chat with live status</sub></td>
-<td><a href="https://github.com/Chamanrajragu/claude-multi"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-dashboard.png" width="400" alt="Claude Multi dashboard — account overview with live cooldown timers" /></a><br /><sub><b>Dashboard</b> — Account overview & cooldown timers</sub></td>
+<td><a href="https://purffle.com/claude-multi/"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-main.png" width="400" alt="Claude Multi main interface — run Claude Code with multiple accounts and auto-switch on usage limit" /></a><br /><sub><b>Main Interface</b> — Multi-account chat with live status</sub></td>
+<td><a href="https://purffle.com/claude-multi/"><img src="https://raw.githubusercontent.com/Chamanrajragu/claude-multi/main/docs/screenshot-dashboard.png" width="400" alt="Claude Multi dashboard — account overview with live cooldown timers" /></a><br /><sub><b>Dashboard</b> — Account overview & cooldown timers</sub></td>
 </tr>
 </table>
 
